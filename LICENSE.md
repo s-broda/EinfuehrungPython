@@ -1,4 +1,4 @@
-Copyright (c) 2022 [Simon A. Broda](https://www.hslu.ch/de-ch/hochschule-luzern/ueber-uns/personensuche/profile/?pid=4728).
+Copyright (c) 2025 [Simon A. Broda](https://www.hslu.ch/de-ch/hochschule-luzern/ueber-uns/personensuche/profile/?pid=4728).
 
 This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/):
 
