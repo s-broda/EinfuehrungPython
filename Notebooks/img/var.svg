@@ -6,7 +6,7 @@
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2025-08-13T16:57:05.730045</dc:date>
+    <dc:date>2025-08-21T18:58:20.453688</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -42,7 +42,7 @@ z
      <g id="line2d_1">
       <path d="M 194.052017 320.4 
 L 194.052017 43.2 
-" clip-path="url(#p1785d17ef1)" style="fill: none; stroke: #cccccc; stroke-width: 0.8; stroke-linecap: round"/>
+" clip-path="url(#p552f99cc5f)" style="fill: none; stroke: #cccccc; stroke-width: 0.8; stroke-linecap: round"/>
      </g>
      <g id="text_1">
       <!-- $-1.96$ -->
@@ -149,7 +149,7 @@ z
      <g id="line2d_2">
       <path d="M 258.3 320.4 
 L 258.3 43.2 
-" clip-path="url(#p1785d17ef1)" style="fill: none; stroke: #cccccc; stroke-width: 0.8; stroke-linecap: round"/>
+" clip-path="url(#p552f99cc5f)" style="fill: none; stroke: #cccccc; stroke-width: 0.8; stroke-linecap: round"/>
      </g>
      <g id="text_2">
       <!-- 0 -->
@@ -323,7 +323,7 @@ L 191.377486 259.559451
 L 194.052017 252.146566 
 L 194.052017 320.4 
 z
-" clip-path="url(#p1785d17ef1)" style="fill: #b2b2b2; stroke: #808080; stroke-linejoin: miter"/>
+" clip-path="url(#p552f99cc5f)" style="fill: #b2b2b2; stroke: #808080; stroke-linejoin: miter"/>
    </g>
    <g id="line2d_3">
     <path d="M 63 320.399016 
@@ -425,7 +425,7 @@ L 414.461723 320.310721
 L 435.596393 320.391135 
 L 453.6 320.399016 
 L 453.6 320.399016 
-" clip-path="url(#p1785d17ef1)" style="fill: none; stroke: #0000ff; stroke-width: 2; stroke-linecap: round"/>
+" clip-path="url(#p552f99cc5f)" style="fill: none; stroke: #0000ff; stroke-width: 2; stroke-linecap: round"/>
    </g>
    <g id="patch_4">
     <path d="M 63 320.4 
@@ -577,7 +577,7 @@ z
   </g>
  </g>
  <defs>
-  <clipPath id="p1785d17ef1">
+  <clipPath id="p552f99cc5f">
    <rect x="63" y="43.2" width="390.6" height="277.2"/>
   </clipPath>
  </defs>
